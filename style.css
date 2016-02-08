@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  font-family: Arial;
+  list-style: none;
+  vertical-align: baseline;
+  text-decoration: none;
+}
+
+a {
+  color: #1085d7;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.small {
+  font-size: 12px;
+  margin: 0 0 0 10px;
+}
+
+.float-right {
+  float: right;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.made-box {
+  color: #eee;
+  text-shadow: 1px 1px 1px #333;
+}
+
+.made-box img {
+  margin: 0 0 0 10px;
+  vertical-align: -8px;
